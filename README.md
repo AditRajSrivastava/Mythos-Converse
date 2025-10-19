@@ -1,5 +1,7 @@
 # Mythos Converse
 
+Live demo: https://mythos-converse.vercel.app/
+
 An immersive, premium web application that allows users to engage in real-time conversations with 244 characters from Indian history, mythology, and the freedom movement.
 
 ## 🌟 Features
@@ -158,6 +160,8 @@ The production-ready files will be in the `dist/` directory.
 3. Set the output directory: `dist`
 4. Add environment variable: `VITE_GEMINI_API_KEY`
 
+Also: Live demo available at https://mythos-converse.vercel.app/
+
 ## 🔒 Security Notes
 
 - Never commit your `.env` file to version control
@@ -196,4 +200,3 @@ For questions or feedback, please open an issue on GitHub.
 ---
 
 **Step into the epic. Experience mythology like never before.** 🏛️✨
-
