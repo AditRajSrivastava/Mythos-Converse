@@ -181,9 +181,7 @@ The production-ready files will be in the `dist/` directory.
 - Share conversations
 - More characters from other epics
 
-## 📜 License
 
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -198,3 +196,4 @@ For questions or feedback, please open an issue on GitHub.
 ---
 
 **Step into the epic. Experience mythology like never before.** 🏛️✨
+
